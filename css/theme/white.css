@@ -225,16 +225,16 @@ body {
  * NAVIGATION CONTROLS
  *********************************************/
 .reveal .controls div.navigate-left, .reveal .controls div.navigate-left.enabled {
-  border-right-color: #000000; }
+  border-right-color: #cc0000; }
 
 .reveal .controls div.navigate-right, .reveal .controls div.navigate-right.enabled {
-  border-left-color: #000000; }
+  border-left-color: #cc0000; }
 
 .reveal .controls div.navigate-up, .reveal .controls div.navigate-up.enabled {
-  border-bottom-color: #000000; }
+  border-bottom-color: #cc0000; }
 
 .reveal .controls div.navigate-down, .reveal .controls div.navigate-down.enabled {
-  border-top-color: #000000; }
+  border-top-color: #cc0000; }
 
 .reveal .controls div.navigate-left.enabled:hover {
   border-right-color: #d6d6d6; }
